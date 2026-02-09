@@ -1,3 +1,3 @@
-# gemini_translator
+# translator
 
-gemini cli 를 이용해 기술 문서 한국어로 번역하기 
+cli agent 를 이용한 한국어 번역 테스트
